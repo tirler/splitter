@@ -14,9 +14,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
-Dazzling technological advances in molecular biology have transformed the biology of cancer and generated thousands of articles in the burgeoning fields of cancer genomics, proteomics, metabolomics and others. Yet researchers have revealed significant heterogeneity even between cancer cells in the same tumour, leading some to question the clinical value of this vast enterprise. Evolution can cause the genetic profiles in one region to be substantially different to those in distant or even adjacent sites — the conventional solution to this problem is greater investment in molecular technology so that entire cancer populations can be analysed cell by cell.
+####  Header 1
 ## Header 2
-Dazzling technological advances in molecular biology have transformed the biology of cancer and generated thousands of articles in the burgeoning fields of cancer genomics, proteomics, metabolomics and others. Yet researchers have revealed significant heterogeneity even between cancer cells in the same tumour, leading some to question the clinical value of this vast enterprise. Evolution can cause the genetic profiles in one region to be substantially different to those in distant or even adjacent sites — the conventional solution to this problem is greater investment in molecular technology so that entire cancer populations can be analysed cell by cell.
+
 ### Header 3
 
 - Bulleted
@@ -31,6 +31,9 @@ Dazzling technological advances in molecular biology have transformed the biolog
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Dazzling technological advances in molecular biology have transformed the biology of cancer and generated thousands of articles in the burgeoning fields of cancer genomics, proteomics, metabolomics and others. Yet researchers have revealed significant heterogeneity even between cancer cells in the same tumour, leading some to question the clinical value of this vast enterprise. Evolution can cause the genetic profiles in one region to be substantially different to those in distant or even adjacent sites — the conventional solution to this problem is greater investment in molecular technology so that entire cancer populations can be analysed cell by cell.
+
+Dazzling technological advances in molecular biology have transformed the biology of cancer and generated thousands of articles in the burgeoning fields of cancer genomics, proteomics, metabolomics and others. Yet researchers have revealed significant heterogeneity even between cancer cells in the same tumour, leading some to question the clinical value of this vast enterprise. Evolution can cause the genetic profiles in one region to be substantially different to those in distant or even adjacent sites — the conventional solution to this problem is greater investment in molecular technology so that entire cancer populations can be analysed cell by cell.
 
 ### Jekyll Themes
 
