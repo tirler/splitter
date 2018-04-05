@@ -1,6 +1,8 @@
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/tirler/splitter/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Dazzling technological advances in molecular biology have transformed the biology of cancer and generated thousands of articles in the burgeoning fields of cancer genomics, proteomics, metabolomics and others. Yet researchers have revealed significant heterogeneity even between cancer cells in the same tumour, leading some to question the clinical value of this vast enterprise. Evolution can cause the genetic profiles in one region to be substantially different to those in distant or even adjacent sites — the conventional solution to this problem is greater investment in molecular technology so that entire cancer populations can be analysed cell by cell.
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
